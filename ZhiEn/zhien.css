@@ -123,8 +123,10 @@
      color: #000 !important;
  }
 
- html[data-theme="dark"] .food-description p,
- h4 {
+ html[data-theme="dark"] .food-description p {
+     color: #d8d3d3 !important;
+ }
+html[data-theme="dark"] .food-description h4 {
      color: #d8d3d3 !important;
  }
 
@@ -722,7 +724,7 @@
  }
 
  .food-description h2 {
-     color: #555;
+     color: #000000;
      font-size: 1.4rem;
  }
 
