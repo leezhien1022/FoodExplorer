@@ -648,7 +648,7 @@
 
  .fullscreen-close {
      position: absolute;
-     top: 20px;
+     top: 100px;
      right: 30px;
      color: white;
      font-size: 60px;
@@ -1025,4 +1025,5 @@
      .you-may-interest-section h3 {
          font-size: 1.8rem;
      }
+
  }
