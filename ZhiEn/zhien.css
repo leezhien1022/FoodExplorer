@@ -722,7 +722,7 @@
  }
 
  .food-description h2 {
-     color: #555;
+     color: #000000;
      font-size: 1.4rem;
  }
 
@@ -1025,4 +1025,5 @@
      .you-may-interest-section h3 {
          font-size: 1.8rem;
      }
+
  }
